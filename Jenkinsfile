@@ -1,2 +1,2 @@
 @Library('robot-shared-library') _
-python("payment")
+nodejs("payment")
